@@ -1,4 +1,4 @@
-DATA 624 Proposal
+DATA 620 Proposal
 
 Matthew Baker
 Zhi Ying Chen
